@@ -12,4 +12,17 @@ We can segment customers based on their buying behaviour on the market
 * Build a clusterinf model-based similarity
 * Fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms
 
+## Task 2
+### Customer Segmentation Analysis with python
 
+#### Input Data
+We will use market_campaign data available on kaggle
+
+### Objectives
+We will segment customers based on:
+* Demographics( Age, Education, and Marital Status)
+* Income
+* Family and Household i.e KidHome or TeenHome
+* Behaviors
+* Channel Preference Segmentation
+* Complaint History Segmentation 
